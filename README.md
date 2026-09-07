@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi, I'm Kaveri 👋
+🎓 EEE Engineering Student
+💻 Learning Embedded Systems | C | Python
+⚡ Interested in Electrical & Electronics
+🚗 Project: Voice Controlled Car using Arduino & Bluetooth
+📚 Currently learning Git & GitHub
+Then below that we can add:
+🛠️ Skills
+📂 Projects
+🎓 Education
+📫 Contact## Hi there 👋
 
 <!--
 **kaveriarakerimath-2005/kaveriarakerimath-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
